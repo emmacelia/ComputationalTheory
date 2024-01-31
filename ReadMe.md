@@ -9,7 +9,7 @@ This project discusses the numbers game of countdown. The project will explain w
      `git clone <Link to Repository> ` <br>
 - The link to the repository can be found inside the green code button. Once inside this pop-up, the repository link can be copied as seen in the image below. 
    
-   ![Alt text](image-1.png)
+   ![Alt text](images/image.png)
 - Choose the location that you want to store the contents of the repository for example on the Desktop or in Documents.
 - Open a command prompt and enter the git clone command as seen above.
 - Once the repository is cloned, use the following command to open it in your default code editor. 
