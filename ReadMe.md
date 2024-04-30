@@ -14,11 +14,7 @@ This project discusses the numbers game of countdown. The project will explain w
 - Open a command prompt and enter the git clone command as seen above.
 - Once the repository is cloned, use the following command to open it in your default code editor. 
  <br> `code .` <br>
-### Install the necessary packages to run the Python code
-In order for the code to run you must install the necessary packages. Open a command promp in the repository directory and run the following commands
-<br> `pip install qiskit`
-<br> `pip install qiskit-aer`
-Code cells inside the projects will now be able run. 
+
 ## Prerequisites
 - A version of Python installed on your machine is required
 - A version of pip to install the required packages
